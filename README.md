@@ -52,12 +52,12 @@ If used in publication, please consider to cite :
 ```
 @article{Test123,
 abstract = {We generate a geothermal heat flow model over Africa using random forest regression based
-4 on sixteen different geophysical and geological quantities (among them are Moho depth, Curie
-5 temperature depth, gravity anomalies, topography, and seismic wave velocities). The training of the
-6 random forest is based on direct heat flow measurements collected in the compilation of Lucazeau
-7 (2019). The final model reveals structures that are consistent with existing regional geothermal heat
-8 flow information. It is interpreted with respect to the tectonic setup of Africa, and the influence of
-9 the selection of training data and target observables is illustrated in the supplementary material.},
+on sixteen different geophysical and geological quantities (among them are Moho depth, Curie
+temperature depth, gravity anomalies, topography, and seismic wave velocities). The training of the
+random forest is based on direct heat flow measurements collected in the compilation of Lucazeau
+(2019). The final model reveals structures that are consistent with existing regional geothermal heat
+flow information. It is interpreted with respect to the tectonic setup of Africa, and the influence of
+the selection of training data and target observables is illustrated in the supplementary material.},
 author = {M. Al-Aghbary, M. Sobh and C. Gerhards},
 doi = {.......},
 journal = {Frontiers in science},
