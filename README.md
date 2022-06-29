@@ -41,8 +41,11 @@ for windows users :
 
 conda install scikit-learn-intelex
 
+# Citing
+
 If used in publication, please consider to cite :
 
+'''
 @article{Test123,
 abstract = {We generate a geothermal heat flow model over Africa using random forest regression based
 4 on sixteen different geophysical and geological quantities (among them are Moho depth, Curie
@@ -58,3 +61,4 @@ publisher = {Ubiquity Press, Ltd.},
 title = {{A geothermal heat flow model of Africa based on Random Forest Regression}},
 year = {2022}
 }
+'''
