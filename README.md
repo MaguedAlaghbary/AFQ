@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/163904331.svg)](https://zenodo.org/badge/latestdoi/) 
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+
+
 # AFQ
 Geothermal Heat Flow model of Africa using random forest regression
 
@@ -45,7 +49,7 @@ conda install scikit-learn-intelex
 
 If used in publication, please consider to cite :
 
-'''
+
 @article{Test123,
 abstract = {We generate a geothermal heat flow model over Africa using random forest regression based
 4 on sixteen different geophysical and geological quantities (among them are Moho depth, Curie
@@ -61,4 +65,4 @@ publisher = {Ubiquity Press, Ltd.},
 title = {{A geothermal heat flow model of Africa based on Random Forest Regression}},
 year = {2022}
 }
-'''
+
