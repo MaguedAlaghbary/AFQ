@@ -61,7 +61,7 @@ abstract = {We generate a geothermal heat flow model over Africa using random fo
 author = {M. Al-Aghbary, M. Sobh and C. Gerhards},
 doi = {.......},
 journal = {Frontiers in science},
-publisher = {Ubiquity Press, Ltd.},
+publisher = {......},
 title = {{A geothermal heat flow model of Africa based on Random Forest Regression}},
 year = {2022}
 }
