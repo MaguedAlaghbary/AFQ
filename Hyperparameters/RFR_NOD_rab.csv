@@ -1,2 +1,0 @@
-regressor__bootstrap	regressor__criterion	regressor__n_estimators	regressor__max_features	regressor__max_depth	regressor__min_samples_leaf	regressor__min_samples_split
-True	squared_error	650	sqrt	28	2	7
