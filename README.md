@@ -14,10 +14,8 @@ The provided Jupyter notebook reproduces the model and and figures in the paper,
 
 
 If anaconda distro is not yet installed please install the latest veriosn from https://docs.anaconda.com/anaconda/install/
+
 If GMT is not yet installed please install the latest veriosn from  https://www.generic-mapping-tools.org/download/
-
-
-## steps to configure the anaconda enviroemnt##
 
 
 conda create -n AFQ python=3.9 anaconda
