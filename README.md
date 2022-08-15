@@ -1,17 +1,30 @@
 [![DOI](https://zenodo.org/badge/494554790.svg)](https://zenodo.org/badge/latestdoi/494554790)
+<<<<<<< HEAD
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+=======
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+>>>>>>> 50bbf014776d86508e82a818b6be5c7c478602da
 
 
 # AFQ
 Geothermal Heat Flow model of Africa using random forest regression
 
+<<<<<<< HEAD
+The code reproduces the resuls published in Fronieters in Science
+=======
 The code reproduces the results published in Fronieters in Science
+>>>>>>> 50bbf014776d86508e82a818b6be5c7c478602da
 
 The provided Jupyter notebook reproduces the model and and figures in the paper, including supplimentary material. The notebook also generates some additional tests and figures, not included in the paper.
 
 
 # Instructions:
 
+<<<<<<< HEAD
+Please install the following enviroment and packages :
+
+conda create -n AFQ python=3.7 anaconda
+=======
 
 If anaconda distro is not yet installed please install the latest veriosn from https://docs.anaconda.com/anaconda/install/
 
@@ -19,6 +32,7 @@ If GMT is not yet installed please install the latest veriosn from  https://www.
 
 
 conda create -n AFQ python=3.9 anaconda
+>>>>>>> 50bbf014776d86508e82a818b6be5c7c478602da
 
 activate AFQ 
 
@@ -28,6 +42,28 @@ conda update --all
 
 
 
+<<<<<<< HEAD
+conda install -c defaults -c conda-forge numpy  xarray  dask pyproj pandas scipy  imageio
+
+
+conda install -c defaults -c conda-forge  geopandas fiona rasterio matplotlib  cartopy basemap
+
+conda install -c defaults -c conda-forge  gstools  pykrige affine scikit-learn
+
+conda install -c defaults -c conda-forge  affine
+conda install -c defaults -c conda-forge  xarray netcdf4 packaging gmt
+conda install -c defaults -c conda-forge   pygmt==0.5.0
+
+conda install -c conda-forge scikit-optimize
+
+pip install agrid
+
+conda install jupyter notebook
+
+for windows users :
+
+conda install scikit-learn-intelex
+=======
 conda install --force-reinstall -y -c defaults -c conda-forge xarray  dask pyproj pandas scipy 
 
 
@@ -42,6 +78,7 @@ conda install --force-reinstall -y -c anaconda seaborn
 
 
 conda update --force-reinstall -y --all
+>>>>>>> 50bbf014776d86508e82a818b6be5c7c478602da
 
 ## Citing
 
