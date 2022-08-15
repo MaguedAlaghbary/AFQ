@@ -1,5 +1,4 @@
 [![DOI](https://zenodo.org/badge/494554790.svg)](https://zenodo.org/badge/latestdoi/494554790)
-<<<<<<< HEAD
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 =======
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
@@ -9,7 +8,7 @@
 # AFQ
 Geothermal Heat Flow model of Africa using random forest regression
 
-<<<<<<< HEAD
+
 The code reproduces the resuls published in Fronieters in Science
 =======
 The code reproduces the results published in Fronieters in Science
@@ -20,7 +19,7 @@ The provided Jupyter notebook reproduces the model and and figures in the paper,
 
 # Instructions:
 
-<<<<<<< HEAD
+
 Please install the following enviroment and packages :
 
 conda create -n AFQ python=3.7 anaconda
@@ -42,7 +41,6 @@ conda update --all
 
 
 
-<<<<<<< HEAD
 conda install -c defaults -c conda-forge numpy  xarray  dask pyproj pandas scipy  imageio
 
 
