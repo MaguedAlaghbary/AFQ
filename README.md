@@ -79,19 +79,24 @@ conda update --force-reinstall -y --all
 If used in publication, please consider to cite :
 
 ```
-@article{Test123,
-abstract = {We generate a geothermal heat flow model over Africa using random forest regression based
-on sixteen different geophysical and geological quantities (among them are Moho depth, Curie
-temperature depth, gravity anomalies, topography, and seismic wave velocities). The training of the
-random forest is based on direct heat flow measurements collected in the compilation of Lucazeau
-(2019). The final model reveals structures that are consistent with existing regional geothermal heat
-flow information. It is interpreted with respect to the tectonic setup of Africa, and the influence of
-the selection of training data and target observables is illustrated in the supplementary material.},
-author = {M. Al-Aghbary, M. Sobh and C. Gerhards},
-doi = {.......},
-journal = {Frontiers in science},
-publisher = {......},
-title = {{A geothermal heat flow model of Africa based on Random Forest Regression}},
-year = {2022}
+@ARTICLE{  
+AUTHOR={Al-Aghbary, M. and Sobh , M. and Gerhards , C.},   
+	 
+TITLE={A geothermal heat flow model of Africa based on random forest regression},      
+	
+JOURNAL={Frontiers in Earth Science},      
+	
+VOLUME={10},           
+	
+YEAR={2022},      
+	  
+URL={https://www.frontiersin.org/articles/10.3389/feart.2022.981899},       
+	
+DOI={10.3389/feart.2022.981899},      
+	
+ISSN={2296-6463},   
+   
+ABSTRACT={Geothermal heat flow (GHF) data measured directly from boreholes are sparse. Purely physics-based models for geothermal heat flow prediction require various simplifications and are feasible only for few geophysical observables. Thus, data-driven multi-observable approaches need to be explored for continental-scale models. In this study, we generate a geothermal heat flow model over Africa using random forest regression, originally based on sixteen different geophysical and geological quantities. Due to an intrinsic importance ranking of the observables, the number of observables used for the final GHF model has been reduced to eleven (among them are Moho depth, Curie temperature depth, gravity anomalies, topography, and seismic wave velocities). The training of the random forest is based on direct heat flow measurements collected in the compilation of (Lucazeau et al., Geochem. Geophys. Geosyst. 2019, 20, 4001–4024). The final model reveals structures that are consistent with existing regional geothermal heat flow information. It is interpreted with respect to the tectonic setup of Africa, and the influence of the selection of training data and observables is discussed.}
 }
+
 ```
